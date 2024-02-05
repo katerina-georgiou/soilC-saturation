@@ -1,0 +1,104 @@
+﻿study,vegetation,management,management_detailed,land_use_detailed,soil_order,time,pro_cs,saturation_percent,rate_stock
+Akala and Lal 2001,pasture,managed,minesoils with topsoil application,pasture,Entisols,5,90,4.501519965,2.04
+Akala and Lal 2001,pasture,managed,minesoils with topsoil application,pasture,Entisols,5,90,6.321317829,2.74
+Akala and Lal 2001,pasture,managed,minesoils with topsoil application,pasture,Entisols,5,90,8.479962875,2.8
+Akala and Lal 2001,pasture,managed,minesoils with topsoil application,pasture,Entisols,5,90,11.37060156,2.5
+Akala and Lal 2001,pasture,managed,minesoils with topsoil application,pasture,Entisols,5,90,15.84729827,5.16
+Akala and Lal 2001,forest,managed,minesoils with topsoil application,afforestation,Entisols,4,90,5.804287893,-0.7
+Akala and Lal 2001,forest,managed,minesoils with topsoil application,afforestation,Entisols,6,90,4.567627659,1.966666667
+Akala and Lal 2001,forest,managed,minesoils with topsoil application,afforestation,Entisols,5,90,7.451627242,2.94
+Akala and Lal 2001,forest,managed,minesoils with topsoil application,afforestation,Entisols,6,90,12.67209302,2.816666667
+Alcántara et al. 2016,cropland,managed,improved management,deep ploughing,Alfisols,48,95,5.273255814,0.422916667
+Babujia et al. 2010,cropland,managed,improved management,no till,Oxisols,20,79.2,38.04685074,1.133367728
+Black et al. 2009,grassland to forest,managed,land use change,grassland to sitka spruce forest,Inceptisols/Mollisols,9,72.5,38.99919808,2.244444444
+Black et al. 2009,grassland to forest,managed,land use change,grassland to sitka spruce forest,Inceptisols/Mollisols,21,77,43.1615071,-0.623809524
+Black et al. 2009,grassland to forest,managed,land use change,grassland to sitka spruce forest,Inceptisols/Mollisols,15,83,37.93429532,-0.146666667
+Boddey et al. 2010,cropland,managed,improved management,no till,Oxisols,15,83,38.05883059,0.606666667
+Bowden et al. 2014,forest,managed,DIRT,DIRT double litter,Alfisols,19,25,86.74304352,0.220215789
+Brown and Lugo 1990,cropland to forest,unmanaged,land use change,crops to secondary forest,Ultisols,22.5,94.5,10.90627362,0.5256
+Brown and Lugo 1990,cropland to forest,unmanaged,land use change,crops to secondary forest,Ultisols,42.5,89.1,11.5672599,0.718023529
+Brown and Lugo 1990,cropland to forest,managed,land use change,crops to pine,Ultisols,10,94.5,10.85474931,1.2866
+Brown and Lugo 1990,cropland to forest,managed,land use change,crops to mahogany plantation,Entisols,35,83.95,28.65527654,0.911428571
+Brown and Lugo 1990,cropland to forest,managed,land use change,secondary forest,Entisols,50,83.95,23.68311703,0.882
+Carvalho et al. 2010,cropland,managed,improved management,crop-livestock rotation,Oxisols,5,82.65,42.45142842,1.6
+Carvalho et al. 2010,cropland,managed,improved management,crop-livestock rotation,Oxisols,8,81.25,59.37224375,1.5125
+Chatterjee et al. 2009,grassland,managed,minesoils with topsoil application,grassland,Alfisols,8,60.5,5.629086935,3.671775
+Chatterjee et al. 2009,grassland,managed,minesoils with topsoil application,grassland,Entisols,21,75,18.80761306,0.782785714
+Chatterjee et al. 2009,forest,managed,minesoils with topsoil application,afforestation,Ultisols,11,66,19.03032489,2.023054545
+Dick et al. 1998,cropland,managed,improved management,no till,Alfisols,30,87.5,17.74750831,0.433333333
+Dick et al. 1998,cropland,managed,improved management,no till,Alfisols,30,87.5,23.76903654,0.666666667
+Dick et al. 1998,cropland,managed,improved management,no till + rotation,Alfisols,30,87.5,17.74750831,1.033333333
+Fekete unpub.,forest,managed,DIRT,DIRT double litter,Inceptisols,10,58,57.80258176,0.770675
+Fekete unpub.,forest,managed,DIRT,DIRT double wood,Inceptisols,10,58,57.80258176,0.447442778
+Freixo et al. 2002,cropland,managed,improved management,no till,Oxisols,11,79.5,44.96944324,0.036363636
+Ganjegunte et al. 2009,grassland,managed,minesoils with topsoil application,grassland,Aridisols,5,31.35416667,15.13656859,-0.73873
+Ganjegunte et al. 2009,grassland,managed,minesoils with topsoil application,grassland,Aridisols,6,30.41666667,11.76915597,-0.768575
+Ganjegunte et al. 2009,pasture,managed,minesoils with topsoil application,pasture,Aridisols,13,67.94166667,6.060319577,0.677269231
+Ganjegunte et al. 2009,pasture,managed,minesoils with topsoil application,pasture,Aridisols,12,72.62083333,9.703084713,0.602079167
+"Harden unpub., Doetterl et al. 2018",grassland,unmanaged,natural revegetation,soil formation,Entisols,21,78.28571429,15.83125424,1.281466448
+"Harden unpub., Doetterl et al. 2018",grassland,unmanaged,natural revegetation,soil formation,Alfisols,21,69.74358974,4.670860968,0.524813689
+Jantalia et al. 2007,cropland,managed,improved management,no till,Oxisols,16,61.45,67.46929313,0.53125
+Jenkinson 1971,cropland to forest,unmanaged,land use change,crops to oak forest,Alfisols,23,50,15.38093023,0.390956522
+Jenkinson 1971,cropland to forest,unmanaged,land use change,crops to oak forest,Alfisols,60,50,15.71860465,0.411866667
+Jenkinson 1971,cropland to forest,unmanaged,land use change,crops to oak forest,Alfisols,21,47.31182796,18.86272992,0.415952381
+Jenkinson 1971,cropland to forest,unmanaged,land use change,crops to oak forest,Alfisols,61,47.31182796,20.25011099,0.102213115
+Keskin and Makineci 2009,forest,managed,minesoils without topsoil application,afforestation,Entisols,17,41.09666667,0,2.231065529
+Keskin and Makineci 2009,forest,managed,minesoils without topsoil application,afforestation,Entisols,17,33.10666667,0,1.307661765
+Lajtha et al. 2014b SSSA,forest,managed,DIRT,DIRT double litter,Inceptisols,20,35,61.89062359,-0.189
+Lawrence et al. unpub.,grassland,unmanaged,natural revegetation,soil formation,Mollisols,10,30.97,50.1304936,0.018332663
+Lawrence et al. unpub.,grassland,unmanaged,natural revegetation,soil formation,Mollisols,10,55.68666667,31.51766046,-0.807056509
+Lawrence et al. unpub.,grassland,unmanaged,natural revegetation,soil formation,Mollisols,10,46.47,34.59162959,0.050405194
+Lawrence et al. unpub.,grassland,unmanaged,natural revegetation,soil formation,Inceptisols,12,54.93333333,58.27316186,0.279124784
+"Lilienfein et al. 2003, Sollins et al. 1983",forest,unmanaged,natural revegetation,soil formation,Entisols,22,13.86666667,17.74200309,0.035564591
+"Lilienfein et al. 2003, Sollins et al. 1983",forest,unmanaged,natural revegetation,soil formation,Entisols,22,14.93333333,47.98301322,-0.60473858
+"Lilienfein et al. 2003, Sollins et al. 1983",forest,unmanaged,natural revegetation,soil formation,Entisols,22,13.86666667,106.9058004,-0.242078455
+"Lilienfein et al. 2003, Sollins et al. 1983",forest,unmanaged,natural revegetation,soil formation,Entisols,22,17.83333333,114.7799936,-0.047527655
+Lorenz and Lal 2007,forest,managed,minesoils with topsoil application,afforestation,Entisols,17,56.25,24.47803502,0.908294118
+Lorenz and Lal 2007,forest,managed,minesoils with topsoil application,afforestation,Entisols,30,56.25,3.904909561,1.20155
+Marchão et al. 2009,cropland,managed,improved management,no till,Oxisols,13,69.4,54.95779265,0.546153846
+Marchão et al. 2009,cropland,managed,improved management,crop-livestock rotation,Oxisols,13,69.4,62.3417612,-0.530769231
+Mazzoncini et al. 2011,cropland,managed,improved management,cover cropping,Entisols,15,55.7,16.56284838,0.1292
+Mazzoncini et al. 2011,cropland,managed,improved management,cover cropping,Entisols,15,55.7,16.56284838,0.254466667
+Mazzoncini et al. 2011,cropland,managed,improved management,cover cropping,Entisols,15,55.7,16.56284838,0.287266667
+Mazzoncini et al. 2011,cropland,managed,improved management,no till,Entisols,15,55.7,16.71995238,0.446333333
+Nadelhoffer unpub.,forest,managed,DIRT,DIRT double litter,Spodosols,5,7.1,55.91790626,1.468868889
+Nii-Annang et al. 2009,forest,managed,minesoils without topsoil application,alley cropping,Entisols,9,25,9.404651163,1.82
+Nii-Annang et al. 2009,forest,managed,minesoils without topsoil application,alley cropping,Entisols,9,25,9.404651163,2.017777778
+Nii-Annang et al. 2009,forest/cropland,managed,minesoils without topsoil application,alley cropping,Entisols,9,25,9.404651163,1.66
+Nii-Annang et al. 2009,cropland,managed,minesoils without topsoil application,alley cropping,Entisols,9,25,9.404651163,0.771555556
+Pierson unpub.,forest,managed,DIRT,DIRT double litter,Andisols/Inceptisols,20,42.5,75.8346187,0.390725
+Pierson unpub.,forest,managed,DIRT,DIRT double wood,Andisols/Inceptisols,20,42.5,75.8346187,0.50765
+Quinkenstein et al. 2011,forest,managed,minesoils without topsoil application,afforestation,Entisols,2,35,6.088039867,4.2433
+Quinkenstein et al. 2011,forest,managed,minesoils without topsoil application,afforestation,Entisols,10,38.125,10.39103317,3.92504
+Raiesi 2012,cropland to grassland,unmanaged,land use change,crops to grassland,Alfisols,20,86,6.027130425,0.3254025
+Raiesi 2012,cropland to grassland,unmanaged,land use change,crops to grassland,Alfisols,20,86,6.990473472,0.25119
+Reintam et al. 2002,forest,managed,minesoils without topsoil application,afforestation,Entisols,29,36.2,0,0.175862069
+Reintam et al. 2002,forest,managed,minesoils without topsoil application,afforestation,Entisols,31,36.2,0,0.309361943
+Reintam et al. 2002,forest,managed,minesoils without topsoil application,afforestation,Entisols,31,36.2,0,1.74207068
+Reintam et al. 2002,forest,managed,minesoils without topsoil application,afforestation,Entisols,34,36.2,0,1.551766257
+Roscoe and Buurman 2003,cropland,managed,improved management,no till,Oxisols,10,90,24.35451397,0
+Schipper and Sparling 2011,scrubland to pasture,managed,land use change,scrubland to pasture,Andisols,45,12.5,194.2434955,-0.615135051
+Schipper and Sparling 2011,scrubland to pasture,managed,land use change,scrubland to pasture,Andisols,25,35,59.86947043,0.38575863
+Schipper and Sparling 2011,scrubland to pasture,managed,land use change,scrubland to pasture,Andisols,17,92.5,50.73038563,1.290465979
+Schipper and Sparling 2011,scrubland to pasture,managed,land use change,scrubland to pasture,Andisols,65,35,87.33266599,-0.172098126
+Schipper and Sparling 2011,scrubland to pasture,managed,land use change,scrubland to pasture,Andisols,27,56.25,52.94236727,0.744192341
+Schipper and Sparling 2011,scrubland to pasture,managed,land use change,scrubland to pasture,Andisols,18,56.25,46.20491866,0.898053889
+Schipper and Sparling 2011,scrubland to pasture,managed,land use change,scrubland to pasture,Ultisols,28,67.5,53.75060391,0.270586272
+Schipper and Sparling 2011,scrubland to pasture,managed,land use change,scrubland to pasture,Alfisols,43,78.75,27.19396646,0.548267475
+Schipper and Sparling 2011,scrubland to pasture,managed,land use change,scrubland to pasture,Alfisols,19,78.75,25.97263196,1.004358662
+Schipper and Sparling 2011,scrubland to pasture,managed,land use change,scrubland to pasture,Oxisols,44,90,91.10259518,0.357307184
+Sever and Makineci 2009,forest,managed,minesoils without topsoil application,afforestation,Entisols,17,44.705,0,2.194946088
+Shrestha et al. 2009,grassland,managed,minesoils with topsoil application,,Entisols,5,61.5,8.516709203,2.58
+Shrestha et al. 2009,grassland,managed,minesoils with topsoil application,,Ultisols,5,72.9,15.31685785,0.76
+Shrestha et al. 2009,grassland,managed,minesoils with topsoil application,,Ultisols,5,72.9,15.31685785,2.82
+Shrestha et al. 2009,grassland,managed,minesoils with topsoil application,,Ultisols,5,72.9,15.31685785,0.46
+Shrestha et al. 2009,grassland,managed,minesoils with topsoil application,,Ultisols,5,72.9,15.31685785,2.5
+Shrestha et al. 2009,grassland,managed,minesoils with topsoil application,,Entisols,5,61.5,8.516709203,2.58
+Shrestha et al. 2009,grassland,managed,minesoils with topsoil application,,Entisols,5,61.5,8.516709203,3.14
+Shrestha et al. 2009,grassland,managed,minesoils with topsoil application,,Entisols,5,61.5,8.516709203,2.7
+Shrestha et al. 2009,grassland,managed,minesoils with topsoil application,,Entisols,5,61.5,8.516709203,3.24
+Shrestha et al. 2009,grassland,managed,minesoils with topsoil application,,Alfisols,5,48.25,17.45179231,0.7
+Shrestha et al. 2009,grassland,managed,minesoils with topsoil application,,Alfisols,5,48.25,17.45179231,2.46
+Shrestha et al. 2009,grassland,managed,minesoils with topsoil application,,Alfisols,5,48.25,17.45179231,0.4
+Shrestha et al. 2009,grassland,managed,minesoils with topsoil application,,Alfisols,5,48.25,17.45179231,2.1
+Williams-Linera et al. 1983,cropland to forest,unmanaged,land use change,crops to tropical forest,Alfisols,7,76.16,24.21774923,5.132084853

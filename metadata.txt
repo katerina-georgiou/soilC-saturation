@@ -1,0 +1,49 @@
+README for synthesis datasets from: Global stocks and capacity of mineral-associated soil organic carbon
+
+Manuscript citation: Georgiou K., Jackson R. B., Vindušková O., Abramoff R. Z., Ahlström A., Feng W., Harden J. W., Pellegrini A. F. A., Polley H. W., Soong J. L., Riley W. J., Torn M. S. Global stocks and capacity of mineral-associated soil organic carbon. Nature Communications, 2022.
+
+Corresponding data available at https://doi.org/10.5281/zenodo.5987415
+
+Further details are provided in the manuscript and supplementary materials. 
+When using data or code, please cite repositories as well as the original manuscript.
+
+Contact: Katerina Georgiou (georgiou1@llnl.gov) with any questions.
+
+
+File name: MOC_synthesis.csv 
+
+Author = study first author
+Year = study year of publication
+Lat = latitude
+Lon = longitude
+MAT = mean annual temperature (C)
+MAP = mean annual precipitation (mm/yr)
+Soil.order = soil order
+MineralType = dominant mineral activity (high=HM, low=LM)
+Top.depth = top depth (cm)
+Bottom.depth = bottom depth (cm)
+Vegetation = biome category
+frc_method = fraction method (density, particle size)
+Clay = percent clay content (%)
+Silt = percent silt content (%)
+Sand = percent sand content (%)
+SiltClayPercent = percent clay+silt (%)
+Bulk.C = soil organic carbon concentration (gC/kg soil)
+SiltClayC = mineral-associated organic carbon concentration (gC/kg soil)
+POM_C = particulate organic carbon concentration (gC/kg soil)
+source = designates studies included from LUCAS and ISRAD databases 
+
+
+File name: synthesis_accrual.csv
+
+study = study author and year
+vegetation = vegetation type 
+management = management class (managed/unmanaged)
+management_detailed = management details
+land_use_detailed = land use details
+soil_order = soil order
+time = study duration (yrs)
+pro_cs = percent clay+silt content (%)
+saturation_percent = percent mineralogical saturation (%)
+rate_stock = carbon accrual rate (tC/ha/yr)
+ 
