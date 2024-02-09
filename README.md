@@ -13,7 +13,7 @@ We performed an observational synthesis of soil fractionation data constituting 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.5987414.svg)](http://dx.doi.org/10.5281/zenodo.5987414)
 
 
-We then leveraged these data along with ancillary data on climate, vegetation, and soil characteristics to produce spatially-explicit global estimates of mineral-associated soil organic carbon stocks (MOC) and mineralogical carbon capacity (MOC<sub>max</sub>) in non-permafrost, non-desert mineral soils. Globally-gridded datasets are given in kgC/m<sup>2</sup> for topsoil (0-30cm) and subsoil (30-100cm) at 0.5&deg; spatial resolution. A permanent DOI for the globally-gridded data product can be found Zenodo:
+We then leveraged these data along with ancillary data on climate, vegetation, and soil characteristics to produce spatially-explicit global estimates of mineral-associated soil organic carbon stocks (MOC) and mineralogical carbon capacity (MOC<sub>max</sub>) in non-permafrost, non-desert mineral soils. Globally-gridded datasets are given in kgC/m<sup>2</sup> for topsoil (0-30cm) and subsoil (30-100cm) at 0.5&deg; spatial resolution. A permanent DOI for the globally-gridded data product can be found on Zenodo:
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.6539764.svg)](http://dx.doi.org/10.5281/zenodo.6539764)
 
